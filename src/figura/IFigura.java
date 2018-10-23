@@ -4,7 +4,7 @@ package figura;
 public interface IFigura {
 
 //    variabile final
-    public final double pigreco = 3.14;
+    public final double PIGRECO = 3.141592;
 
 //    metodi astratti
     public double perimetro();
